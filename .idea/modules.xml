@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Adapter-Design/Adapter-Design.iml" filepath="$PROJECT_DIR$/Adapter-Design/Adapter-Design.iml" />
       <module fileurl="file://$PROJECT_DIR$/Bridge-Design/Bridge-Design.iml" filepath="$PROJECT_DIR$/Bridge-Design/Bridge-Design.iml" />
       <module fileurl="file://$PROJECT_DIR$/Builder-Design/Builder-Design.iml" filepath="$PROJECT_DIR$/Builder-Design/Builder-Design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chain-Of-Responsibility-Design/Chain-Of-Responsibility-Design.iml" filepath="$PROJECT_DIR$/Chain-Of-Responsibility-Design/Chain-Of-Responsibility-Design.iml" />
       <module fileurl="file://$PROJECT_DIR$/Command-Design/Command-Design.iml" filepath="$PROJECT_DIR$/Command-Design/Command-Design.iml" />
       <module fileurl="file://$PROJECT_DIR$/Composite-Design/Composite-Design.iml" filepath="$PROJECT_DIR$/Composite-Design/Composite-Design.iml" />
       <module fileurl="file://$PROJECT_DIR$/Decorator-Design/Decorator-Design.iml" filepath="$PROJECT_DIR$/Decorator-Design/Decorator-Design.iml" />
@@ -15,6 +16,8 @@
       <module fileurl="file://$PROJECT_DIR$/Iterator-Design/Iterator-Design.iml" filepath="$PROJECT_DIR$/Iterator-Design/Iterator-Design.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer-Design/Observer-Design.iml" filepath="$PROJECT_DIR$/Observer-Design/Observer-Design.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proxy-Design/Proxy-Design.iml" filepath="$PROJECT_DIR$/Proxy-Design/Proxy-Design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/State-Design/State-Design.iml" filepath="$PROJECT_DIR$/State-Design/State-Design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Template-Design/Template-Design.iml" filepath="$PROJECT_DIR$/Template-Design/Template-Design.iml" />
     </modules>
   </component>
 </project>
