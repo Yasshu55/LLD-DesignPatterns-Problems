@@ -14,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/Facade-Design/Facade-Design.iml" filepath="$PROJECT_DIR$/Facade-Design/Facade-Design.iml" />
       <module fileurl="file://$PROJECT_DIR$/Factory-Design/Factory-Design.iml" filepath="$PROJECT_DIR$/Factory-Design/Factory-Design.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iterator-Design/Iterator-Design.iml" filepath="$PROJECT_DIR$/Iterator-Design/Iterator-Design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mediator-Design/Mediator-Design.iml" filepath="$PROJECT_DIR$/Mediator-Design/Mediator-Design.iml" />
       <module fileurl="file://$PROJECT_DIR$/Observer-Design/Observer-Design.iml" filepath="$PROJECT_DIR$/Observer-Design/Observer-Design.iml" />
       <module fileurl="file://$PROJECT_DIR$/Proxy-Design/Proxy-Design.iml" filepath="$PROJECT_DIR$/Proxy-Design/Proxy-Design.iml" />
       <module fileurl="file://$PROJECT_DIR$/State-Design/State-Design.iml" filepath="$PROJECT_DIR$/State-Design/State-Design.iml" />
